@@ -15,6 +15,7 @@ is set to starting the game.
   Each time, the ball hits the racket, the score/s of the player/s gets updated.
   
 ~ The Racket:
+
   Dimension: The racket has a dimension of 10 x 60 (width: 10, height: 60) for both single- and two-player pong.
   
   Position: For the single-player pong, the starting position is (420, 10).
@@ -24,8 +25,11 @@ is set to starting the game.
          For the two-player pong, the color is BLACK for player1 and RED for player2.
           
 ~ The Ball:
-  Diameter: 30          
-  Starting Position: (250, 0)     
+
+  Diameter: 30   
+  
+  Starting Position: (250, 0)  
+  
   Color: RED
   
 THE RULES:
